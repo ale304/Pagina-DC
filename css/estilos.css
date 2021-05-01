@@ -1,7 +1,7 @@
 body
 
 {
-text-align: center;
+    text-align: center;
 color: blue;
 font-family: fantasy;
 width: 80%;
@@ -36,6 +36,7 @@ padding: 0;
 text-align: left;
 border: 1px solid rgb(39, 2, 2);
 margin: 0 auto; 
+}
 
 #post
 {
@@ -53,5 +54,9 @@ margin: 0 auto;
     font-size: 20px;
 }
 
-
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
 }
